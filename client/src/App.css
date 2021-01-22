@@ -364,6 +364,7 @@ table th {
   border-bottom: solid 1px var(--primary-color);
   opacity: 0.9;
   margin-bottom: 1rem;
+  /* border: 1px dashed red; */
 }
 
 .navbar ul {
